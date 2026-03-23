@@ -1,7 +1,7 @@
 # kfceiling
 
 # About
-This is a macropad with a oled display and encoder! 
+This is a macropad that has 8 programmable kets with a oled display and encoder! 
 
 # Images
 <img width="1775" height="929" alt="image" src="https://github.com/user-attachments/assets/020cb405-729a-45de-b873-c63e0cc700c4" />
