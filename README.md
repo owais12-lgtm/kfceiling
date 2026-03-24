@@ -4,6 +4,8 @@
 This is a macropad that has 8 programmable kets with a oled display and encoder! 
 
 # Images
+<img width="1076" height="697" alt="image" src="https://github.com/user-attachments/assets/07404650-ac8f-4020-a2a0-8d6b4686554b" />
+
 <img width="1775" height="929" alt="image" src="https://github.com/user-attachments/assets/020cb405-729a-45de-b873-c63e0cc700c4" />
 <img width="634" height="332" alt="image" src="https://github.com/user-attachments/assets/faebd330-9785-43a9-ac94-dab6aa6cb75d" />
 <img width="1141<img width="1161" height="721" alt="Screenshot from 2026-03-24 11-55-53" src="https://github.com/user-attachments/assets/8f9ca361-9485-42d5-a4e4-49a0690c1894" />
